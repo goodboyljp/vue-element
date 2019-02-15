@@ -1,0 +1,6 @@
+{
+    "BASE_URL":"http://10.22.210.113:8080",
+    "ossAddress":"http://oss.zjzr365.com/uploadFile.file",
+    "sysId":"50febd544ccffa404c6fa9c860902b8c",
+    "deleOssAddress":"http://oss.zjzr365.com/deleteFile.file"
+}
